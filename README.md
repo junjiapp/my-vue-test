@@ -1,3 +1,2 @@
 # my-vue-test
-test demo
-new thing
+a vue test demo
